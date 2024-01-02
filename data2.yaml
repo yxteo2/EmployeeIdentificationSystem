@@ -1,0 +1,5 @@
+
+train: /content/drive/MyDrive/MachineLearning2/EmployeeIdentificationSystem/Train
+val: /content/drive/MyDrive/MachineLearning2/EmployeeIdentificationSystem/Test
+nc: 2
+names: ['Person', 'Employee']
